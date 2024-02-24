@@ -1,4 +1,4 @@
 print("DevOps Workshop")
 print("Hello World")
 print("Pumang")
-print("Kirange")
+print("Ki")
